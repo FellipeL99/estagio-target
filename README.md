@@ -23,7 +23,7 @@ Observe o trecho de código abaixo:
 
 Ao final do processamento, qual será o valor da variável SOMA?
 
-### Solução: [Resultado da Soma](https://github.com/FellipeL99/estagio-target/blob/main/scripts/sumResult.js)
+### Solução: [Resultado de Soma](https://github.com/FellipeL99/estagio-target/blob/main/scripts/sumResult.js)
 
 Questão 2 de 5
 
@@ -42,7 +42,7 @@ Dado um vetor que guarda o valor de faturamento diário de uma distribuidora, fa
 IMPORTANTE:
 a) Usar o json ou xml disponível como fonte dos dados do faturamento mensal;
 b) Podem existir dias sem faturamento, como nos finais de semana e feriados. Estes dias devem ser ignorados no cálculo da média;
-### Solução: [Estatísticas de venda](https://github.com/FellipeL99/estagio-target/blob/main/scripts/billStatus.js)
+### Solução: [Estatísticas de Vendas](https://github.com/FellipeL99/estagio-target/blob/main/scripts/billStatus.js)
 
 Questao 4 de 5
 Dado o valor de faturamento mensal de uma distribuidora, detalhado por estado:
@@ -54,7 +54,7 @@ Dado o valor de faturamento mensal de uma distribuidora, detalhado por estado:
    Outros – R$19.849,53
 
 Escreva um programa na linguagem que desejar onde calcule o percentual de representação que cada estado teve dentro do valor total mensal da distribuidora.
-### Solução: [Porcentagem por estado](https://github.com/FellipeL99/estagio-target/blob/main/scripts/stateShare.js)
+### Solução: [Porcentagem por Estado](https://github.com/FellipeL99/estagio-target/blob/main/scripts/stateShare.js)
 
 Questão 5 de 5
 Escreva um programa que inverta os caracteres de um string.
@@ -62,6 +62,6 @@ Escreva um programa que inverta os caracteres de um string.
 IMPORTANTE:
 a) Essa string pode ser informada através de qualquer entrada de sua preferência ou pode ser previamente definida no código;
 b) Evite usar funções prontas, como, por exemplo, reverse;
-### Solução: [String reversa](https://github.com/FellipeL99/estagio-target/blob/main/scripts/reverseWord.js)
+### Solução: [String Reversa](https://github.com/FellipeL99/estagio-target/blob/main/scripts/reverseWord.js)
 
 
